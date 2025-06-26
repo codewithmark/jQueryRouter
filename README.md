@@ -1,5 +1,4 @@
-# 🧭 Build a SPA in Minutes with This jQuery Router 
-# (No Frameworks Needed!)
+# 🧭 Build a SPA in Minutes with This jQuery Router (No Frameworks Needed!)
 
 Ever wanted a simple router without diving into React or Vue? This jQuery-powered dynamic router helps you build SPAs with clean URLs, dynamic parameters, and smooth navigation—all in under 100 lines of code!
 
